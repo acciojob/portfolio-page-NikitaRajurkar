@@ -1,2 +1,28 @@
+html
+{
+    background-color: rgb(37, 151, 164);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.userimg
+{
+    height: 150px;
+    width: 150px;
+}
 
-/* Your CSS Code here. */
+.name
+{
+    display: inline-block;
+    margin-left: 5px;
+    color: white;
+}
+
+#linkedin-id
+{
+    color: white;
+}
+
+#linkedin-id:hover
+{
+    color: rgb(56, 26, 9);
+}
